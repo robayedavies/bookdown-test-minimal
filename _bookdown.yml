@@ -1,0 +1,6 @@
+book_filename: "bookdown-minimal-test"
+repo: https://github.com/robayedavies/bookdown-test-minimal.git
+output_dir: docs
+rmd_files: 
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
